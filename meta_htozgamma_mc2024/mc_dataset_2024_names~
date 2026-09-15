@@ -1,0 +1,17 @@
+# Dataset filenames
+# Once can add a MC_DIR to the dataset, which will be used to set the directory name. 
+# By default the MC_DIR name will be "mc"
+# Example) WH_HToBB_WToLNu_M125 wh
+# This will make a directory called wh
+# Dataset names (mc/signal)
+# H To ZG
+GluGluH-HtoZGto2LG_Par-M-125_TuneCP5_13p6TeV
+VBFH-HtoZGto2LG_Par-M-125_TuneCP5_13p6TeV
+ZH-HtoZGto2LG_Par-M-125_TuneCP5_13p6TeV
+WminusH-HtoZGto2LG_Par-M-125_TuneCP5_13p6TeV
+WplusH-HtoZGto2LG_Par-M-125_TuneCP5_13p6TeV
+TTH-HtoZGto2LG_Par-M-125_TuneCP5_13p6TeV
+DYGto2LG-1Jets_Bin-MLL-50_TuneCP5_13p6TeV
+DYto2E-2Jets_Bin-MLL-50_TuneCP5_13p6TeV
+DYto2Mu-2Jets_Bin-MLL-50_TuneCP5_13p6TeV
+DYto2Tau-2Jets_Bin-MLL-50_TuneCP5_13p6TeV
